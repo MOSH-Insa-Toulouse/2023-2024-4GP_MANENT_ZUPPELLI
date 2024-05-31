@@ -47,11 +47,11 @@ Le code Arduino permet la réception des mesures faites par les deux capteurs (G
 Nous avons intégré différents éléments dans notre programme :
 <br>
 <p align="center">
-<img src="https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/capteur_%C3%A0_jauge_de_contrainte.PNG" alt="Figure 1 - Capteur à jauge de contrainte à base de crayon graphite">
+<img src="https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/capteur_%C3%A0_jauge_de_contrainte.PNG" alt="Figure 2 - Capteur à jauge de contrainte à base de crayon graphite">
 <br>
 <i>Capteur graphite</i>
 <br>   
 <p align="center">
-<img src="[https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/tree/main/images_projet_capteur](https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/Flex%20Sensor.PNG)">
+<img src="https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/Flex%20Sensor.PNG"alt="Figure 3 - Flex Sensor">
 <br>
 <i>Flex Sensor</i>
