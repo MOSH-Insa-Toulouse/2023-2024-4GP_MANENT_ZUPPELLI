@@ -21,4 +21,7 @@ Une jauge de contrainte est un circuit résistif dont la résistance varie en fo
 Notre jauge de contrainte est alimentée par une tension régulée de 5V d'une carte Arduino UNO.
 Ci-dessous, les 4 différentes jauges de contrainte que nous avons utilisé dans ce projet.
 
-![Figure 1 : Capteur à jauge de contrainte à base de crayon graphite ](https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/capteur_%C3%A0_jauge_de_contrainte.PNG)
+![](https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/capteur_%C3%A0_jauge_de_contrainte.PNG)
+
+**Figure 1 - Capteur à jauge de contrainte à base de crayon graphite**
+
