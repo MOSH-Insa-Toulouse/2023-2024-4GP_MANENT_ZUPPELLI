@@ -44,7 +44,7 @@ Pour obtenir un signal exploitable nous avons dû l'amplifier. Pour ce faire, no
 ## IV) Code Arduino
 
 Le code Arduino permet la réception des mesures faites par les deux capteurs (Graphites et Flex Sensor) et d'afficher ces valeurs sur l'OLED. 
-Nous avons intégré différents éléments dans notre programme :
+Nous avons intégré les codes de différents éléments dans notre programme :
 <br>
 <p align="center">
 <img src="https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/capteur_%C3%A0_jauge_de_contrainte.PNG" alt="Figure 2 - Capteur à jauge de contrainte à base de crayon graphite">
@@ -55,3 +55,9 @@ Nous avons intégré différents éléments dans notre programme :
 <img src="https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/Flex%20Sensor.PNG"alt="Figure 3 - Flex Sensor">
 <br>
 <i>Flex Sensor</i>
+<br>   
+<p align="center">
+<img src="https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/ecran%20oled.PNG"alt="Figure 4 - Ecran OLED">
+<br>
+<i>Ecran OLED</i>
+
