@@ -4,7 +4,7 @@
    - [I) Contexte et objectifs du projet](#I-Contexteetobjectifsduprojet)
    - [II) Capteur à jauge de contrainte à base de crayon graphite](#II-Capteuràjaugedecontrainteàbasedecrayongraphite)
    - [III) Partie Analogique](#III-PartieAnalogique)
-
+   - [IV) Code Arduino](#IV-CodeArduino)
      
 ---
   
@@ -43,5 +43,6 @@ Pour obtenir un signal exploitable nous avons dû l'amplifier. Pour ce faire, no
 
 ## IV) Code Arduino
 
-Le code Arduino permet la réception des mesures faites par les deux capteurs (Graphites et Flex Sensor), d'afficher ces valeurs sur l'OLED. 
+Le code Arduino permet la réception des mesures faites par les deux capteurs (Graphites et Flex Sensor) et d'afficher ces valeurs sur l'OLED. 
+Nous avons intégré différents éléments dans notre programme :
 
