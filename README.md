@@ -36,9 +36,12 @@ Ci-dessous, les 4 différentes jauges de contrainte que nous avons utilisé dans
 <i>Capteur à jauge de contrainte à base de crayon graphite</i>
 </p>
 
-Le code Arduino permet la réception des mesures faites par les deux capteurs (Graphites et Flex Sensor), d'afficher ces valeurs sur l'OLED.
-
 ## III) Partie Analogique
 
 Ce capteur graphite possède une résistance variable de l'ordre du GΩ. Le courant généré lorsque l'on applique une tension de 5V aux bornes du capteur est très faible.<br>
 Pour obtenir un signal exploitable nous avons dû l'amplifier. Pour ce faire, nous avons utilisé un montage transimpédance constitué d'un amplificateur opérationnel.
+
+## IV) Code Arduino
+
+Le code Arduino permet la réception des mesures faites par les deux capteurs (Graphites et Flex Sensor), d'afficher ces valeurs sur l'OLED. 
+
