@@ -60,4 +60,10 @@ Notre programme principal est composé de sous programmes associés à ces élé
 <img src="https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/ecran%20oled.PNG"alt="Figure 4 - Ecran OLED">
 <br>
 <i>Ecran OLED</i>
+<br>   
+<p align="center">
+<img src="https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/encodeur%20rotatoire.PNG"alt="Figure 5 - Encodeur rotatoire">
+<br>
+<i>Encodeur rotatoire</i>
+
 
