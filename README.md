@@ -4,6 +4,7 @@
    - [I) Contexte et objectifs du projet](#I-Contexteetobjectifsduprojet)
    - [II) Capteur à jauge de contrainte à base de crayon graphite](#II-Capteuràjaugedecontrainteàbasedecrayongraphite)
    - [III) Partie Analogique](#III-PartieAnalogique)
+
      
 ---
   
@@ -36,3 +37,5 @@ Ci-dessous, les 4 différentes jauges de contrainte que nous avons utilisé dans
 </p>
 
 ## III) Partie Analogique
+
+Ce capteur graphite possède une résistance variable de l'ordre du GΩ. Le courant généré lorsque l'on applique une tension de 5V aux bornes du capteur est très faible. Ainsi, pour récupérer et pouvoir analyser ce signal, nous devons l'amplifier. C'est pourquoi nous avons utilisé un montage transimpédance constitué d'un amplificateur opérationnel (AOP) pour fournir un signal en tension suffisant au convertisseur analogique-numérique (ADC) d'une carte Arduino UNO. 
