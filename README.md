@@ -2,6 +2,9 @@
 --- 
 ## Sommaire
    - [I) Contexte et objectifs du projet](#I-Contexteetobjectifsduprojet)
+   - [II) Capteur à jauge de contrainte à base de crayon graphite](#II-Capteuràjaugedecontrainteàbasedecrayongraphite)
+   - [III) Partie Analogique](#III-PartieAnalogique)
+     
 ---
   
 ## I) Contexte et objectifs du projet
@@ -14,7 +17,7 @@ Nous avons ensuite réalisé une application mobile connectée au module bluetoo
 Nous avons évalué le capteur sur un banc de test.<br>
 Puis nous avons fini par réaliser la datasheet du capteur de contrainte.<br>
 
-# II. Capteur à jauge de contrainte à base de crayon graphite
+## II) Capteur à jauge de contrainte à base de crayon graphite
 
 Ce capteur low-tech utilise la théorie de la percolation au sein d’un système granulaire constitué de nanoparticules de graphite.<br>
 Nous déposons une fine couche de graphite sur la feuille de papier ce qui présente un réseau percolé caractéristique. Dans ce réseau, le transport des électrons entre les nanoparticules est basé sur le mécanisme de l’effet tunnel.<br>
@@ -31,3 +34,5 @@ Ci-dessous, les 4 différentes jauges de contrainte que nous avons utilisé dans
 <br>
 <i>Capteur à jauge de contrainte à base de crayon graphite</i>
 </p>
+
+## III) Partie Analogique
