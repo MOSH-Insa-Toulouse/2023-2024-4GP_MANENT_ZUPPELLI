@@ -65,5 +65,10 @@ Notre programme principal est composé de sous programmes associés à ces élé
 <img src="https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/encodeur%20rotatoire.PNG"alt="Figure 5 - Encodeur rotatoire">
 <br>
 <i>Encodeur rotatoire</i>
+<br>   
+<p align="center">
+<img src="https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/potar.PNG"alt="Figure 6 - Potentiomètre digital">
+<br>
+<i>Potentiomètre digital</i>
 
 
