@@ -49,15 +49,38 @@ Pour cela nous avons dans un premier temps effectué une simulation électroniqu
 </p>
 <br>
 Ce circuit amplificateur contient également 3 filtres passe bas passifs, dont nous avons pu tester le bon fonctionnement alternativement.<br>
+<br>
 - Le premier étage a une fréquence de coupure de 16 Hz, il permet de filtrer les bruits du courant en entrée. Nous avons testé ce premier étage pour vérifier que la fréquence de coupure soit la bonne.
-
-
-
-
-
+<br>
+</p>
+<p align="center">
+<img src="https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/diagramme_de_bode_%C3%A9tage_1.PNG" alt="Simulation de l'étage 1 dans LTSpice">
+<br>
+<i>Simulation de l'étage 1 dans LTSpice</i>
+</p>
+En effet la fréquence de coupure est la bonne.
+<br>
 - Le second étage a une fréquence de coupure de 1,6 Hz. Il permet de filtrer la composante de bruit du réseau électrique: le bruit à 50 Hz.
-
+<br>
+</p>
+<p align="center">
+<img src="https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/diagramme_de_bode_%C3%A9tage_2.PNG" alt="Simulation de l'étage 2 dans LTSpice">
+<br>
+<i>Simulation de l'étage 2 dans LTSpice</i>
+</p>
+En effet la fréquence de coupure est la bonne.
+<br>
 - Le dernier étage a une fréquence de coupure à 1,6 kHz qui permet d'atténuer le bruit provenant lors du traitement électronique.
+<br>
+</p>
+<p align="center">
+<img src="https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/diagramme_de_bode_%C3%A9tage_3.PNG" alt="Simulation de l'étage 3 dans LTSpice">
+<br>
+<i>Simulation de l'étage 3 dans LTSpice</i>
+</p>
+En effet la fréquence de coupure est la bonne.
+<br> 
+Conclusion : grâce à la simulation sur LTSpice, nous remarquons que notre signal de sortie atteindra les 1V, ce qui lui permet d'être récupéré et exploité par la carte arduino UNO.
 
 
 ## IV) Code Arduino
