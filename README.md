@@ -121,4 +121,6 @@ Notre programme principal est composé de sous programmes associés à ces élé
 
 ## V) Banc de tests
 
+Nous avons relevé la variation de résistance de notre capteur en fonction de son angle de déformation. Pour cela, nous avons fabriqué un banc de test avec des disques en papiers ayant différents rayons de courbure:
+
 
