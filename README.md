@@ -115,12 +115,20 @@ Notre programme principal est composé de sous programmes associés à ces élé
 <i>Potentiomètre digital</i>
 <br>   
 <p align="center">
-<img src="https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/module%20bluetooth.PNG"alt="Figure 6 - Module Bluetooth">
+<img src="https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/module%20bluetooth.PNG"alt="Figure 7 - Module Bluetooth">
 <br>
 <i>Module Bluetooth</i>
 
 ## V) Banc de tests
 
 Nous avons relevé la variation de résistance de notre capteur en fonction de son angle de déformation. Pour cela, nous avons fabriqué un banc de test avec des disques en papiers ayant différents rayons de courbure:
+<br> 
+<p align="center">
+<img src="https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/banc%20de%20tests.png"alt="Figure 8 - Banc de tests">
+<br> 
+<i>Banc de tests</i>
+<br>
+Nous avons réalisé les mesures pour une déformation du capteur en traction et en compression. Nous avons testé plusieurs crayons graphites qui ont des duretés différentes: 2H, 2B, HB, 6B.
+<br>
 
-
+Voici les résultats obtenus: 
