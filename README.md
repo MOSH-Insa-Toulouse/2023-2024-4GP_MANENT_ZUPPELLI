@@ -5,6 +5,7 @@
    - [II) Capteur à jauge de contrainte à base de crayon graphite](#II-Capteuràjaugedecontrainteàbasedecrayongraphite)
    - [III) Partie Analogique](#III-PartieAnalogique)
    - [IV) Code Arduino](#IV-CodeArduino)
+   - [V) Banc de tests](#V-Bancdetests)
      
 ---
   
@@ -117,5 +118,7 @@ Notre programme principal est composé de sous programmes associés à ces élé
 <img src="https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/module%20bluetooth.PNG"alt="Figure 6 - Module Bluetooth">
 <br>
 <i>Module Bluetooth</i>
+
+## V) Banc de tests
 
 
