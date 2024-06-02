@@ -121,14 +121,23 @@ Notre programme principal est composé de sous programmes associés à ces élé
 
 ## V) Banc de tests
 
-Nous avons relevé la variation de résistance de notre capteur en fonction de son angle de déformation. Pour cela, nous avons fabriqué un banc de test avec des disques en papiers ayant différents rayons de courbure:
+Nous avons relevé la variation de résistance de notre capteur en fonction de son angle de déformation. Pour cela, nous avons fabriqué un banc de test avec des disques en papiers de rayons de courbure différents:
 <br> 
 <p align="center">
 <img src="https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/banc%20de%20tests.png"alt="Figure 8 - Banc de tests">
 <br> 
 <i>Banc de tests</i>
 <br>
+
 Nous avons réalisé les mesures pour une déformation du capteur en traction et en compression. Nous avons testé plusieurs crayons graphites qui ont des duretés différentes: 2H, 2B, HB, 6B.
 <br>
 
 Voici les résultats obtenus: 
+
+Ce graphique représente la variation de résistance relative en fonction de la compression appliquée:
+<br>
+
+Ce graphique représente la variation de résistance relative en fonction de la tension appliquée:
+<br>
+
+Nous pouvons remarquer que les résistances des mines de crayon les plus tendres sont plus faibles que celles des mines les plus dures. En effet, les mines les plus tendres contiennent plus de particules de graphites, donc les traces de crayons paraissent plus foncées. Au contraire, les mines les plus dures contiennent moins de particules de graphites et plus de liants argileux donc elles paraissent les traces de crayons paraissent plus claires. Sous compression, les particules de graohites se rapprochent donc le courant circulent plus facilement: la résistance est faible. A l'inverse, sous traction, les particules de graphites s'écartent ce qui facilite la déconnexion des voies de conduction donc le courant circule moins facilement: la résistance augmente.
