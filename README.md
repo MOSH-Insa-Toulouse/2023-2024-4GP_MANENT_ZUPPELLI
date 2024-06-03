@@ -5,7 +5,9 @@
    - [II) Capteur à jauge de contrainte à base de crayon graphite](#II-Capteuràjaugedecontrainteàbasedecrayongraphite)
    - [III) Partie Analogique](#III-PartieAnalogique)
    - [IV) Code Arduino](#IV-CodeArduino)
-   - [V) Banc de tests](#V-Bancdetests)
+   - [V) KiCad](#V-KiCad)
+   - [VI) Banc de tests](#VI-Bancdetests)
+   - [VII) Application Windows](#VII-ApplicationWindows)
      
 ---
   
@@ -119,7 +121,13 @@ Notre programme principal est composé de sous programmes associés à ces élé
 <br>
 <i>Module Bluetooth</i>
 
-## V) Banc de tests
+
+## V) KiCad
+Avant d'imprimer le PCB et de souder nos différents composants, nous avons dû dessiner les schémas électroniques, réaliser les composants électroniques et créer le PCB sur KICAD. Cette étape est importante car elle permet de prévisualiser le PCB, vérifier que tous les composants tiennent sur le PCB. Elle permet également de créer les différents routages de pistes.
+
+
+
+## VI) Banc de tests
 
 Nous avons relevé la variation de résistance de notre capteur en fonction de son angle de déformation. Pour cela, nous avons fabriqué un banc de test avec des disques en papiers de rayons de courbure différents:
 <br> 
