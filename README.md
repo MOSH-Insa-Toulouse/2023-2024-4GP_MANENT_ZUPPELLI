@@ -178,7 +178,8 @@ Nous pouvons remarquer que les résistances des mines de crayon les plus tendres
 
 ## VII) Application mobile
 
-Nous avons réalisé une application mobile sur le site MIT App Inventor. Une fois que le module bluetooth est connecté au téléphone, nous pouvons acquérir les données des capteurs en temps réel et les tracer sur le graphe
+Nous avons réalisé une application mobile sur le site MIT App Inventor. <br>
+Une fois que le module bluetooth est connecté au téléphone, nous pouvons acquérir les données des capteurs en temps réel et les tracer sur le graphe. 
 
 <br> 
 <p align="center">
