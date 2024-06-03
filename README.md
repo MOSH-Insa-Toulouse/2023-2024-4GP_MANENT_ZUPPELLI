@@ -142,6 +142,8 @@ Avant d'imprimer le PCB et de souder nos différents composants, nous avons dû 
 <br>
 <i>Visualisation 3D du PCB</i>
 </p>
+<br>
+Une fois que nous avons été satisfaites de la disposition de nos différents composants électroniques, et du routage de pistes, nous avons pu imprimer le PCB, le percer et y souder les différents composants.
 
 
 
