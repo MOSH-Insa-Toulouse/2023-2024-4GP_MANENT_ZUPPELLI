@@ -132,9 +132,9 @@ Avant d'imprimer le PCB et de souder nos différents composants, nous avons dû 
 </p>
 
 <p align="center">
-<img src="https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/capteur_%C3%A0_jauge_de_contrainte.PNG" alt="Figure 1 - Capteur à jauge de contrainte à base de crayon graphite">
+<img src="https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/empreintes.png" alt="Création du PCB et des différentes empreintes sur KiCad">
 <br>
-<i>Capteur à jauge de contrainte à base de crayon graphite</i>
+<i>Création du PCB et des différentes empreintes sur KiCad</i>
 </p>
 
 <p align="center">
