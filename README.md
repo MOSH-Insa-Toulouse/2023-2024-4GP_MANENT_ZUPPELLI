@@ -144,7 +144,13 @@ Avant d'imprimer le PCB et de souder nos différents composants, nous avons dû 
 </p>
 <br>
 Une fois que nous avons été satisfaites de la disposition de nos différents composants électroniques, et du routage de pistes, nous avons pu imprimer le PCB, le percer et y souder les différents composants.
+<br>
 
+<p align="center">
+<img src="https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/empreintes.png" alt="Création du PCB et des différentes empreintes sur KiCad">
+<br>
+<i>Création du PCB et des différentes empreintes sur KiCad</i>
+</p>
 
 
 ## VI) Banc de tests
