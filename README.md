@@ -126,7 +126,7 @@ Notre programme principal est composé de sous programmes associés à ces élé
 Avant d'imprimer le PCB et de souder nos différents composants, nous avons dû dessiner les schémas électroniques, réaliser les composants électroniques et créer le PCB sur KICAD. Cette étape est importante car elle permet de prévisualiser le PCB, vérifier que tous les composants tiennent sur le PCB. Elle permet également de créer les différents routages de pistes.
 
 <p align="center">
-<img src="https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/circuits_electroniques.png" alt="Schémas électroniques">
+<img src="https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/circuit_%C3%A9lectronique.png" alt="Schémas électroniques">
 <br>
 <i>Schémas électroniques</i>
 </p>
@@ -145,9 +145,9 @@ Avant d'imprimer le PCB et de souder nos différents composants, nous avons dû 
 <br>
 Une fois que nous avons été satisfaites de la disposition de nos différents composants électroniques, et du routage de pistes, nous avons pu imprimer le PCB, le percer et y souder les différents composants.
 <br>
-
+<br>
 <p align="center">
-<img src="https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/pcb%20termin%C3%A9.jpg" alt="PCB terminé">
+<img src="https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/PCB_final.png" alt="PCB terminé">
 <br>
 <i>PCB terminé</i>
 </p>
