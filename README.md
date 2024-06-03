@@ -126,9 +126,9 @@ Notre programme principal est composé de sous programmes associés à ces élé
 Avant d'imprimer le PCB et de souder nos différents composants, nous avons dû dessiner les schémas électroniques, réaliser les composants électroniques et créer le PCB sur KICAD. Cette étape est importante car elle permet de prévisualiser le PCB, vérifier que tous les composants tiennent sur le PCB. Elle permet également de créer les différents routages de pistes.
 
 <p align="center">
-<img src="https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/capteur_%C3%A0_jauge_de_contrainte.PNG" alt="Figure 1 - Capteur à jauge de contrainte à base de crayon graphite">
+<img src="https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/circuits_electroniques.png" alt="Schémas électroniques">
 <br>
-<i>Capteur à jauge de contrainte à base de crayon graphite</i>
+<i>Schémas électroniques</i>
 </p>
 
 <p align="center">
