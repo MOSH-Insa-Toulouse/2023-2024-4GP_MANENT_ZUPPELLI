@@ -147,9 +147,9 @@ Une fois que nous avons été satisfaites de la disposition de nos différents c
 <br>
 
 <p align="center">
-<img src="https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/empreintes.png" alt="Création du PCB et des différentes empreintes sur KiCad">
+<img src="https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/pcb%20termin%C3%A9.jpg" alt="PCB terminé">
 <br>
-<i>Création du PCB et des différentes empreintes sur KiCad</i>
+<i>PCB terminé</i>
 </p>
 
 
