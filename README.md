@@ -14,7 +14,7 @@
   
 ## I) Contexte et objectifs du projet
 
-L'objectif de ce projet est de réaliser un capteur low-tech à base de graphite. Les recherches ont démontré les nombreux avantages du carbone graphite. L’électronique à base de papier gagne en popularité parmi les ingénieur(e)s grâce à sa facilité d’approvisionnement, sa simplicité de fabrication et son faible coût.<br>
+L'objectif de ce projet est de réaliser un capteur low-tech à base de graphite. Les recherches ont démontré les nombreux avantages du carbone graphite. L’électronique à base de papier gagne en popularité parmi les ingénieurs grâce à sa facilité d’approvisionnement, sa simplicité de fabrication et son faible coût.<br>
 Nous avons dû réaliser tous les processus de fabrication d'un shield PCB. Nous l'avons ensuite connecté à une plaque Arduino UNO.<br>
 Notre shield contient 6 composants différents : une jauge de contrainte, un flex sensor, un écran oled, un encodeur rotatoire, un potentiomètre digital et un module Bluetooth.<br>
 Par ailleurs, la carte Arduino fonctionne avec un code.<br>
@@ -186,7 +186,7 @@ Voici les résultats obtenus:
 </p>
 <br>
 
-Nous pouvons remarquer que les résistances des mines de crayon les plus tendres sont plus faibles que celles des mines les plus dures. En effet, les mines les plus tendres contiennent plus de particules de graphites, donc les traces de crayons paraissent plus foncées. Au contraire, les mines les plus dures contiennent moins de particules de graphites et plus de liants argileux donc elles paraissent les traces de crayons paraissent plus claires. Sous compression, les particules de graohites se rapprochent donc le courant circulent plus facilement: la résistance est faible. A l'inverse, sous traction, les particules de graphites s'écartent ce qui facilite la déconnexion des voies de conduction donc le courant circule moins facilement: la résistance augmente.
+Nous pouvons remarquer que les résistances des mines de crayon les plus tendres sont plus faibles que celles des mines les plus dures. En effet, les mines les plus tendres contiennent plus de particules de graphites, donc les traces de crayons paraissent plus foncées. Au contraire, les mines les plus dures contiennent moins de particules de graphites et plus de liants argileux donc elles paraissent les traces de crayons paraissent plus claires. Sous compression, les particules de graphites se rapprochent donc le courant circule plus facilement: la résistance diminue. A l'inverse, sous traction, les particules de graphites s'écartent ce qui facilite la déconnexion des voies de conduction donc le courant circule moins facilement: la résistance augmente.
 
 ## VII) Application mobile
 
