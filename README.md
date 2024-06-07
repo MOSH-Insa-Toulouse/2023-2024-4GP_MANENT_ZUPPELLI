@@ -8,6 +8,7 @@
    - [V) KiCad](#V-KiCad)
    - [VI) Banc de tests](#VI-Bancdetests)
    - [VII) Application mobile](#VII-Applicationmobile)
+   - [VIII) Datasheet](#VIII-Datasheet)
      
 ---
   
@@ -163,12 +164,11 @@ Nous avons relevé la variation de résistance de notre capteur en fonction de s
 <i>Banc de tests</i>
 <br>
 
-Nous avons réalisé les mesures pour une déformation du capteur en traction et en compression. Nous avons testé plusieurs crayons graphites qui ont des duretés différentes: 2H, 2B, HB, 6B.
+Nous avons réalisé les mesures pour une déformation du capteur en traction et en compression. Nous avons testé plusieurs crayons graphites qui ont des duretés différentes: 2H, 2B, HB, 6B. Les détails des calculs se trouvent sur le document nommé "bancdetest.xlsx"
 <br>
 
 Voici les résultats obtenus: 
 
-graphique représentant la variation de résistance relative en fonction de la compression appliquée
 <br>
 <p align="center">
 <img src="https://github.com/MOSH-Insa-Toulouse/2023-2024-4GP_MANENT_ZUPPELLI/blob/main/images_projet_capteur/compression.png" alt="graphique représentant la variation de résistance relative en fonction de la compression appliquée">
@@ -199,3 +199,7 @@ Une fois que le module bluetooth est connecté au téléphone, nous pouvons acqu
 <br> 
 <i>Face avant de l'application</i>
 <br>
+
+## VIII) Datasheet
+<br> 
+Nous avons déposé le PDF de la datasheet. 
